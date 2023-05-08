@@ -1,0 +1,5 @@
+{
+  "APP_ENV": "development",
+  "API_BASE_URL": "https://rickandmortyapi.com",
+  "APP_DEBUG": true
+}

@@ -1,0 +1,43 @@
+{
+  "@@locale": "en",
+  "errorViewText": "Something went wrong",
+  "@errorViewText": {
+    "description": "Text shown in the ErrorView"
+  },
+  "errorViewButton": "Go to home",
+  "@errorViewButton": {
+    "description": "Text shown in the ErrorView button"
+  },
+  "offlineText": "Without connection",
+  "@offlineText": {
+    "description": "Text shown in the OfflineView"
+  },
+  "characterListBottomNavigation": "Characters",
+  "@characterListBottomNavigation": {
+    "description": "Text shown in the BottomNavigation for the CharacterList"
+  },
+  "characterListTitle": "Characters",
+  "@characterListTitle": {
+    "description": "Text shown in the title of the CharacterList"
+  },
+  "characterListEmptyState": "No characters found",
+  "@characterListEmptyState": {
+    "description": "Text shown in the empty state of the CharacterList"
+  },
+  "characterDetailBottomNavigation": "Character Detail",
+  "@characterDetailBottomNavigation": {
+    "description": "Text shown in the BottomNavigation for the CharacterDetail"
+  },
+  "characterDetailTitle": "Character Detail",
+  "@characterDetailTitle": {
+    "description": "Text shown in the title of the CharacterDetail"
+  },
+  "characterDetailEmptyState": "No character found",
+  "@characterDetailEmptyState": {
+    "description": "Text shown in the empty state of the CharacterDetail"
+  },
+  "characterDetailNoCharacterSelected": "No character selected",
+  "@characterDetailNoCharacterSelected": {
+    "description": "Text shown in the empty state of the CharacterDetail when no character is selected"
+  }
+}

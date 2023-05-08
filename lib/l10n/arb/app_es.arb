@@ -1,0 +1,43 @@
+{
+  "@@locale": "es",
+  "errorViewText": "Algo salió mal",
+  "@errorViewText": {
+    "description": "Texto mostrado en la vista de error"
+  },
+  "errorViewButton": "Ir al inicio",
+  "@errorViewButton": {
+    "description": "Texto mostrado en el botón de la vista de error"
+  },
+  "offlineText": "Sin conexión",
+  "@offlineText": {
+    "description": "Texto mostrado en la vista de sin conexión"
+  },
+  "characterListBottomNavigation": "Personajes",
+  "@characterListBottomNavigation": {
+    "description": "Texto mostrado en la navegación inferior de la lista de personajes"
+  },
+  "characterListTitle": "Personajes",
+  "@characterListTitle": {
+    "description": "Texto mostrado en el título de la lista de personajes"
+  },
+  "characterListEmptyState": "No se encontraron personajes",
+  "@characterListEmptyState": {
+    "description": "Texto mostrado en el estado vacío de la lista de personajes"
+  },
+  "characterDetailBottomNavigation": "Detalle del personaje",
+  "@characterDetailBottomNavigation": {
+    "description": "Texto mostrado en la navegación inferior del detalle del personaje"
+  },
+  "characterDetailTitle": "Detalle del personaje",
+  "@characterDetailTitle": {
+    "description": "Texto mostrado en el título del detalle del personaje"
+  },
+  "characterDetailEmptyState": "No se encontró el personaje",
+  "@characterDetailEmptyState": {
+    "description": "Texto mostrado en el estado vacío del detalle del personaje"
+  },
+  "characterDetailNoCharacterSelected": "No se ha seleccionado ningún personaje",
+  "@characterDetailNoCharacterSelected": {
+    "description": "Texto mostrado en el estado vacío del detalle del personaje cuando no se seleccionó ningún personaje"
+  }
+}
